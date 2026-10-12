@@ -36,7 +36,7 @@ def main():
         choice = input("Enter your choice (1-7): ")
         
         if choice == '7':
-            print("Exiting the calculator. Goodbye!")
+            print("Thank you for using this app.Exiting the calculator now. Goodbye!")
             break
             
         if choice in ['1', '2', '3', '4', '6']:
@@ -76,4 +76,3 @@ def main():
 
 if __name__ == "__main__":
     main()0
-
